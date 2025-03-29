@@ -12,6 +12,6 @@ Python: versatile, high-level, general-purpose programming language.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Pandas](https://www.typescriptlang.org/docs/handbook/2/classes.html](https://pandas.pydata.org/)
+* [Pandas](https://pandas.pydata.org/)
 * [Jupyter](https://jupyter.org/)
 * [Data Analysis with Jupyter Notebook](https://www.w3schools.com/typescript/typescript_arrays.php](https://www.geeksforgeeks.org/data-analysis-and-visualization-with-jupyter-notebook/)
